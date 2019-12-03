@@ -6,6 +6,8 @@ PCR-Badge-2015
 ## PCR Club Car Convention 2015
 ### ‘Duino Demo Board
 
+* [Arduino source code](https://github.com/plocher/PCRdemo2015)
+
 
 Once a year, the model railroaders in Northern California and Nevada (officially, the [Pacific Coast Region](http://www.pcrnmra.org)
 of the [National Model Railroad Association](http://nmra.org)) host a convention.
